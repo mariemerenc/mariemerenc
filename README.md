@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mariana!</h1>
-<h3 align="center">A spirited IT student looking forward to studying Computer Science :). My pronouns are she/her.</h3>
+<h3 align="center">A spirited IT student looking forward to studying Computer Science :)</h3>
 
 - 🌱 I’m currently learning **C++, Java**
 
