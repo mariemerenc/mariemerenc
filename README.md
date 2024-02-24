@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java<br>🖥 I'm really interested in competitive programming!</p>
+<p align="left">📚 I'm currently learning JavaScript (Vue.js)<br>🖥 I'm really interested in competitive programming!</p>
 
 ###
 
