@@ -37,7 +37,7 @@
 ###
 
 <div align="right">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariemerenc)](https://github.com/anuraghazra/github-readme-stats)" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariemerenc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
