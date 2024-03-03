@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript (Vue.js)<br>🖥 I'm really interested in competitive programming!</p>
+<p align="left">📚 I'm currently learning JavaScript and studying Python and Java.<br>🖥 I'm really interested in competitive programming!</p>
 
 ###
 
@@ -38,7 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="40" />
-          
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" />
 
 </div>
 
