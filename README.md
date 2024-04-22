@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript.<br>🖥 I'm really interested in competitive programming!</p>
+<p align="left">📚 I'm currently working with Python on a data analysis and AI project.<br>🖥 I'm really interested in machine learning and data science!</p>
 
 ###
 
