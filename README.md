@@ -46,7 +46,7 @@
 ###
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariemerenc&hide=makefile&exclude_repo=Jupyter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariemerenc&hide=makefile,cmake,tex&exclude_repo=Jupyter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
