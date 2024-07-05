@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working with Python on a data analysis and AI project.<br>🖥 I'm really interested in machine learning and data science!</p>
+<p align="left">📚 I'm currently developing a chatbot project to optimize communication between tax auditors and taxpayers.<br>🖥 I'm really interested in machine learning and data science!</p>
 
 ###
 
