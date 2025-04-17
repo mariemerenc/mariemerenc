@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mariana and I'm a spirited IT student looking forward to studying Computer Science :)</p>
+<p align="left">My name is Mariana :)</p>
 
 ###
 
