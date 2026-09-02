@@ -1,15 +1,9 @@
 <h1 align="left">Mariana Emerenciano</h1>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      Desenvolvedora de IA e Visão Computacional · Natal/RN · UFRN
-    </td>
-    <td align="right">
-      <a href="mailto:mariemerenc@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
+<p align="cente">
+  Desenvolvedora de IA e Visão Computacional · Natal/RN · UFRN
+</p>
+
 
 ---
 
