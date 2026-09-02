@@ -1,7 +1,8 @@
+<h1 align="left">Mariana Emerenciano</h1>
+
 <table width="100%">
   <tr>
     <td align="left">
-      <h1>Mariana Emerenciano</h1>
       Desenvolvedora de IA e Visão Computacional · Natal/RN · UFRN
     </td>
     <td align="right">
@@ -9,6 +10,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## sobre mim  :)
