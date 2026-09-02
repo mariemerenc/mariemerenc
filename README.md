@@ -57,8 +57,11 @@ Me interesso por ciência de dados como área de estudo e me dedico a programaç
 
 ---
 
-## aaaaaaaa
+## algumas estatísticas!
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%">
+</p>v
 
 ---
 
